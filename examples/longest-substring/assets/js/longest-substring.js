@@ -42,7 +42,9 @@ let lengthOfLongestSubstring = function (s) {
 // Implementation
 // const longest = lengthOfLongestSubstring("pwwkew");
 const longest = lengthOfLongestSubstring("abcdefabcdefgh");
+const longest2 = lengthOfLongestSubstring("kind");
 console.log(`The length of the longest substring is ${longest}`);
+console.log(`The length of the longest substring is ${longest2}`);
 
 // BIG O Notation
 // Time complexity - O(n)
